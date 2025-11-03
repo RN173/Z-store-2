@@ -1,1 +1,1 @@
-# Z-store-2
+This my online webstore I made for school
