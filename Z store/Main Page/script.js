@@ -61,6 +61,14 @@ const products = [
     model: "assets/models/cracker.glb"
 	
  },,
+  {
+    id: 11,
+    name: "Cracker",
+    price: 19.60,
+    thumb: "assets/thumbs/Cracker.jpg",
+    model: "assets/models/cracker.glb"
+	
+ },,
   // Add as many as you need
 ];
 
