@@ -28,22 +28,6 @@
     .card img {width:100%; height:180px; object-fit:cover;}
     .card h3 {margin:0.5rem 0; font-size:1rem;}
     .card p {margin:0.3rem 0 0.8rem; color:#d00; font-weight:bold;}
-    /* ---- Cart styles ---- */
-    .cart-btn {background:none; border:none; color:#fff; font-size:1.2rem; cursor:pointer; padding:0.5rem;}
-    .cart-drawer {position:fixed; right:-300px; top:0; width:300px; height:100vh; background:#222; color:#fff; box-shadow:-4px 0 8px rgba(0,0,0,.3); transition:right 0.3s; z-index:1000; overflow-y:auto; padding:1rem;}
-    .cart-drawer.open {right:0;}
-    .cart-header {display:flex; justify-content:space-between; align-items:center; margin-bottom:1rem; border-bottom:1px solid #444; padding-bottom:0.5rem;}
-    .close-btn {background:none; border:none; color:#fff; font-size:1.5rem; cursor:pointer;}
-    .cart-items {list-style:none; padding:0; margin:0;}
-    .cart-items li {display:flex; align-items:center; gap:0.5rem; padding:0.8rem 0; border-bottom:1px solid #444;}
-    .cart-items img {width:50px; height:50px; object-fit:cover;}
-    .item-info {flex:1;}
-    .item-info strong {display:block;}
-    .item-info small {color:#aaa;}
-    .cart-items .remove {background:none; border:none; color:#f00; cursor:pointer; font-size:1.2rem; padding:0;}
-    .cart-footer {margin-top:1rem; border-top:1px solid #444; padding-top:1rem;}
-    .checkout-btn {width:100%; padding:0.8rem; background:#0066cc; color:#fff; border:none; border-radius:4px; cursor:pointer; font-weight:bold;}
-    .checkout-btn:hover {background:#0052a3;}
   </style>
 </head>
 
@@ -51,9 +35,6 @@
 
 <header>
   <h1><a href="index.html">Z Store</a></h1>
-  <button id="cart-toggle" class="cart-btn">
-    🛒 <span id="cart-count">0</span>
-  </button>
 </header>
 <nav>
   <ul>
@@ -83,18 +64,5 @@
     <li><a href="sale.html">Sales</a></li>
   </ul>
 </nav>
-
-<!-- Cart drawer (off-canvas) -->
-<aside id="cart-drawer" class="cart-drawer">
-  <div class="cart-header">
-    <h2>Your Cart</h2>
-    <button id="cart-close" class="close-btn">✕</button>
-  </div>
-  <ul id="cart-items" class="cart-items"></ul>
-  <div class="cart-footer">
-    <p>Total: <strong id="cart-total">$0.00</strong></p>
-    <button id="checkout-btn" class="checkout-btn">Proceed to Checkout</button>
-  </div>
-</aside>
-
-<script src="script.js"></script>
+</body>
+</html>
