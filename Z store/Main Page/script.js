@@ -62,19 +62,12 @@ const products = [
 	
  },
   {
-<<<<<<< HEAD
+
     id: 9,
     name: "Spinosaurus",
     price: 50.31,
     thumb: "assets/thumbs/Spinosaurus.jpg",
     model: "assets/models/Spinosaurus.glb"
-=======
-    id: 11,
-    name: "Cracker",
-    price: 19.60,
-    thumb: "assets/thumbs/Cracker.jpg",
-    model: "assets/models/cracker.glb"
->>>>>>> parent of 50a30a2 (Co-authored-by: nate)
 	
  },
   {
