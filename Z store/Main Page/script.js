@@ -62,11 +62,11 @@ const products = [
 	
  },,
   {
-    id: 11,
-    name: "Cracker",
-    price: 19.60,
-    thumb: "assets/thumbs/Cracker.jpg",
-    model: "assets/models/cracker.glb"
+    id: 67,
+    name: "Spinosaurus",
+    price: 50.31,
+    thumb: "assets/thumbs/Spinosaurus.jpg",
+    model: "assets/models/Spinosaurus.glb"
 	
  },,
   // Add as many as you need
