@@ -60,13 +60,29 @@ const products = [
     thumb: "assets/thumbs/Cracker.jpg",
     model: "assets/models/cracker.glb"
 	
- },,
+ },
   {
-    id: 67,
+    id: 9,
     name: "Spinosaurus",
     price: 50.31,
     thumb: "assets/thumbs/Spinosaurus.jpg",
     model: "assets/models/Spinosaurus.glb"
+	
+ },
+  {
+    id: 10,
+    name: "T-rex",
+    price: 25,
+    thumb: "assets/thumbs/T-rex.jpg",
+    model: "assets/models/T-rex.glb"
+	
+ },
+  {
+    id: 11,
+    name: "ankylosaurus",
+    price: 42,
+    thumb: "assets/thumbs/ankylosaurus.jpg",
+    model: "assets/models/ankylosaurus.glb"
 	
  },,
   // Add as many as you need
@@ -174,5 +190,22 @@ checkoutBtn.addEventListener('click', () => {
 });
 
 /* ==================== Init ==================== */
-renderProducts();
-renderCart();
+if (gridEl) {
+  renderProducts();
+}
+if (cartItemsEl) {
+  renderCart();
+}
+if (cartToggle && cartDrawer && cartClose && checkoutBtn) {
+  cartToggle.addEventListener('click', () => cartDrawer.classList.toggle('open'));
+  cartClose.addEventListener('click', () => cartDrawer.classList.remove('open'));
+  checkoutBtn.addEventListener('click', () => {
+    if (cart.length === 0) {
+      alert('Your cart is empty!');
+      return;
+    }
+    alert(`Mock checkout – total: $${cartTotalEl.textContent}\ngimme money.`);
+  });
+}
+// Always sync cart count
+saveCart();
