@@ -1,50 +1,16 @@
 /* ==================== DATA ==================== */
 const products = [
 
-
-
-  {
-    id: 5,
-    name: "david",
-    price: 67.67,
-    thumb: "assets/thumbs/david.jpg",
-    model: "assets/models/david.glb"
-	
-  },
-  {
-    id: 6,
-    name: "house but the other one",
-    price: 4.20,
-    thumb: "assets/thumbs/housemd.jpg",
-    model: "assets/models/housemd.glb"
-	
- },
-
- {
-    id: 8,
-    name: "Cracker",
-    price: 19.60,
-    thumb: "assets/thumbs/Cracker.jpg",
-    model: "assets/models/cracker.glb"
-	
- },,
-
-
-
-
-
    {
-    id: 14,
-    name: "Link",
-    price: 34,
-    thumb: "assets/thumbs/Link.jpg",
-    model: "assets/models/Link.glb",
+    id: 17,
+    name: "dirt bike",
+    price: 42.7,
+    thumb: "assets/thumbs/dirt bike.jpg",
+    model: "assets/models/dirt bike.glb"
 	
  },,
 
-
-
-
+ 
 
  
   // Add as many as you need
