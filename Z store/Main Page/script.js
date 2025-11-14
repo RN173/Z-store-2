@@ -81,8 +81,8 @@ const products = [
     id: 10,
     name: "Clock",
     price: 9.62,
-    thumb: "assets/thumbs/Clock.jpg",
-    model: "assets/models/Clock.glb"
+    thumb: "assets/thumbs/clock.jpg",
+    model: "assets/models/clock.glb"
 	
  },,
    {
@@ -127,34 +127,34 @@ const products = [
  },,
    {
     id: 17,
-    name: "Pinkerton",
+    name: "dirt bike",
     price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    thumb: "assets/thumbs/dirt bike.jpg",
+    model: "assets/models/dirt bike.glb"
 	
  },,
    {
     id: 18,
-    name: "Pinkerton",
+    name: "new york",
     price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    thumb: "assets/thumbs/new york.jpg",
+    model: "assets/models/new york.glb"
 	
  },,
    {
     id: 19,
-    name: "Pinkerton",
+    name: "by the way",
     price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    thumb: "assets/thumbs/by the way.jpg",
+    model: "assets/models/by the way.glb"
 	
  },,
    {
     id: 20,
-    name: "Pinkerton",
+    name: "Calafornication",
     price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    thumb: "assets/thumbs/Calafornication.jpg",
+    model: "assets/models/Calafornication.glb"
 	
  },,
 
