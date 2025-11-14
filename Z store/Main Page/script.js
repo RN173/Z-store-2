@@ -95,34 +95,34 @@ const products = [
  },,
   {
     id: 13,
-    name: "Pinkerton",
-    price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    name: "leopard",
+    price: 78.6,
+    thumb: "assets/thumbs/leopard.jpg",
+    model: "assets/models/leopard.glb"
 	
  },,
    {
     id: 14,
-    name: "Pinkerton",
-    price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    name: "Link",
+    price: 34,
+    thumb: "assets/thumbs/Link.jpg",
+    model: "assets/models/Link.glb",
 	
  },,
    {
     id: 15,
-    name: "Pinkerton",
-    price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
+    name: "Glock 22",
+    price: 18.4,
+    thumb: "assets/thumbs/glock.jpg",
     model: "assets/models/Pinkerton.glb"
 	
  },,
    {
     id: 16,
-    name: "Pinkerton",
+    name: "codsworth",
     price: 42.7,
-    thumb: "assets/thumbs/Pinkerton.jpg",
-    model: "assets/models/Pinkerton.glb"
+    thumb: "assets/thumbs/codsworth.jpg",
+    model: "assets/models/codsworth.glb"
 	
  },,
    {
