@@ -23,7 +23,7 @@ const products = [
   },
   {
     id: 4,
-    name: "M4A1 Abram",
+    name: "M4A4 Abram",
     price: 2.99,
     thumb: "assets/thumbs/M4A1 Abram.jpg",
     model: "assets/models/M4A1 Abram.glb"
@@ -62,13 +62,103 @@ const products = [
 	
  },,
   {
-    id: 67,
+    id: 9,
     name: "Spinosaurus",
     price: 50.31,
     thumb: "assets/thumbs/Spinosaurus.jpg",
     model: "assets/models/Spinosaurus.glb"
 	
  },,
+   {
+    id: 11,
+    name: "WEEZER",
+    price: 34.89,
+    thumb: "assets/thumbs/weezer blue.jpg",
+    model: "assets/models/weezer blue.glb"
+	
+ },,
+   {
+    id: 10,
+    name: "Clock",
+    price: 9.62,
+    thumb: "assets/thumbs/Clock.jpg",
+    model: "assets/models/Clock.glb"
+	
+ },,
+   {
+    id: 12,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+  {
+    id: 13,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 14,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 15,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 16,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 17,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 18,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 19,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+   {
+    id: 20,
+    name: "Pinkerton",
+    price: 42.7,
+    thumb: "assets/thumbs/Pinkerton.jpg",
+    model: "assets/models/Pinkerton.glb"
+	
+ },,
+
+ 
   // Add as many as you need
 ];
 
