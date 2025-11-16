@@ -2,7 +2,7 @@
 const products = [
 
   {
-    id: 3,
+    id: 1,
     name: "Modern House",
     price: 39.99,
     thumb: "assets/thumbs/house.jpg",
@@ -10,7 +10,7 @@ const products = [
   },
 
    {
-    id: 18,
+    id: 2,
     name: "new york",
     price: 42.7,
     thumb: "assets/thumbs/new york.jpg",

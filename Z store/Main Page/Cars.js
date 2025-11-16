@@ -2,7 +2,7 @@
 const products = [
 
   {
-    id: 2,
+    id: 1,
     name: "Sports Car",
     price: 29.99,
     thumb: "assets/thumbs/car.jpg",

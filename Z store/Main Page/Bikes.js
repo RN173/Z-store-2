@@ -2,7 +2,39 @@
 const products = [
 
    {
-    id: 17,
+    id: 1,
+    name: "dirt bike",
+    price: 42.7,
+    thumb: "assets/thumbs/dirt bike.jpg",
+    model: "assets/models/dirt bike.glb"
+	
+ },,
+    {
+    id: 2,
+    name: "moterbike",
+    price: 42.7,
+    thumb: "assets/thumbs/Bike1.jpg",
+    model: "assets/models/Bike1.glb"
+	
+ },,
+    {
+    id: 3,
+    name: "dirt bike 2",
+    price: 42.7,
+    thumb: "assets/thumbs/Bike2.jpg",
+    model: "assets/models/Bike2.glb"
+	
+ },,
+    {
+    id: 4,
+    name: "dirt bike",
+    price: 42.7,
+    thumb: "assets/thumbs/dirt bike.jpg",
+    model: "assets/models/dirt bike.glb"
+	
+ },,   
+ {
+    id: 5,
     name: "dirt bike",
     price: 42.7,
     thumb: "assets/thumbs/dirt bike.jpg",

@@ -2,7 +2,7 @@
 const products = [
 
   {
-    id: 4,
+    id: 1,
     name: "M4A4 Abram",
     price: 2.99,
     thumb: "assets/thumbs/M4A1 Abram.jpg",
@@ -11,7 +11,7 @@ const products = [
  },
 
   {
-    id: 13,
+    id: 2,
     name: "leopard",
     price: 78.6,
     thumb: "assets/thumbs/leopard.jpg",
@@ -20,7 +20,7 @@ const products = [
  },,
 
    {
-    id: 15,
+    id: 3,
     name: "Glock 22",
     price: 18.4,
     thumb: "assets/thumbs/glock.jpg",

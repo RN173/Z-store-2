@@ -31,23 +31,16 @@ const products = [
  },
 
 {
-    id: 7,
+    id: 5,
     name: "JBl speaker",
     price: 17.38,
     thumb: "assets/thumbs/hello.jpg",
     model: "assets/models/hello.glb"
 	
  },
- {
-    id: 8,
-    name: "Cracker",
-    price: 19.60,
-    thumb: "assets/thumbs/Cracker.jpg",
-    model: "assets/models/cracker.glb"
-	
- },,
+
   {
-    id: 9,
+    id: 6,
     name: "Spinosaurus",
     price: 50.31,
     thumb: "assets/thumbs/Spinosaurus.jpg",
@@ -55,7 +48,7 @@ const products = [
 	
  },,
    {
-    id: 11,
+    id: 7,
     name: "WEEZER",
     price: 34.89,
     thumb: "assets/thumbs/weezer blue.jpg",
@@ -63,7 +56,7 @@ const products = [
 	
  },,
    {
-    id: 10,
+    id: 8,
     name: "Clock",
     price: 9.62,
     thumb: "assets/thumbs/clock.jpg",
@@ -71,7 +64,7 @@ const products = [
 	
  },,
    {
-    id: 12,
+    id: 9,
     name: "Pinkerton",
     price: 42.7,
     thumb: "assets/thumbs/Pinkerton.jpg",
@@ -79,7 +72,7 @@ const products = [
 	
  },,
   {
-    id: 13,
+    id: 10,
     name: "leopard",
     price: 78.6,
     thumb: "assets/thumbs/leopard.jpg",
@@ -88,7 +81,7 @@ const products = [
  },,
 
    {
-    id: 15,
+    id: 12,
     name: "Glock 22",
     price: 18.4,
     thumb: "assets/thumbs/glock.jpg",
@@ -96,39 +89,39 @@ const products = [
 	
  },,
    {
-    id: 16,
+    id: 13,
     name: "codsworth",
-    price: 42.7,
+    price: 62.7,
     thumb: "assets/thumbs/codsworth.jpg",
     model: "assets/models/codsworth.glb"
 	
  },,
    {
-    id: 17,
+    id: 14,
     name: "dirt bike",
-    price: 42.7,
+    price: 16.7,
     thumb: "assets/thumbs/dirt bike.jpg",
     model: "assets/models/dirt bike.glb"
 	
  },,
    {
-    id: 18,
+    id: 15,
     name: "new york",
-    price: 42.7,
+    price: 900.76,
     thumb: "assets/thumbs/new york.jpg",
     model: "assets/models/new york.glb"
 	
  },,
    {
-    id: 19,
+    id: 16,
     name: "by the way",
-    price: 42.7,
-    thumb: "assets/thumbs/by the way.jpg",
+    price: 15.52,
+    thumb: "assets/thumbs/By_The_Cat.jpg",
     model: "assets/models/by the way.glb"
 	
  },,
    {
-    id: 20,
+    id: 17,
     name: "Calafornication",
     price: 42.7,
     thumb: "assets/thumbs/Calafornication.jpg",

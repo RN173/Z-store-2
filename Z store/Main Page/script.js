@@ -145,7 +145,7 @@ const products = [
     id: 19,
     name: "by the way",
     price: 42.7,
-    thumb: "assets/thumbs/by the way.jpg",
+    thumb: "assets/thumbs/By_The_Cat.jpg",
     model: "assets/models/by the way.glb"
 	
  },,

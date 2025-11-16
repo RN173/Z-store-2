@@ -4,7 +4,7 @@ const products = [
 
 
   {
-    id: 5,
+    id: 1,
     name: "david",
     price: 67.67,
     thumb: "assets/thumbs/david.jpg",
@@ -12,7 +12,7 @@ const products = [
 	
   },
   {
-    id: 6,
+    id: 2,
     name: "house but the other one",
     price: 4.20,
     thumb: "assets/thumbs/housemd.jpg",
@@ -21,20 +21,15 @@ const products = [
  },
 
  {
-    id: 8,
+    id: 3,
     name: "Cracker",
     price: 19.60,
     thumb: "assets/thumbs/Cracker.jpg",
     model: "assets/models/cracker.glb"
 	
  },,
-
-
-
-
-
    {
-    id: 14,
+    id: 4,
     name: "Link",
     price: 34,
     thumb: "assets/thumbs/Link.jpg",
