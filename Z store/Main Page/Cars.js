@@ -8,6 +8,20 @@ const products = [
     thumb: "assets/thumbs/car.jpg",
     model: "assets/models/car.glb"
   },
+    {
+    id: 2,
+    name: "subaru impreza wrx",
+    price: 29.99,
+    thumb: "assets/thumbs/Subaru WRX.jpg",
+    model: "assets/models/Subaru WRX.glb"
+  },
+    {
+    id: 3,
+    name: "Ferrari",
+    price: 29.99,
+    thumb: "assets/thumbs/Ferrari.jpg",
+    model: "assets/models/Ferrari.glb"
+  },
 
  
   // Add as many as you need
