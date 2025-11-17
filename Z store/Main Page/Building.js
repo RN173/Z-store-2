@@ -17,7 +17,13 @@ const products = [
     model: "assets/models/new york.glb"
 	
  },,
-
+  {
+    id: 3,
+    name: "Home",
+    price: 40,
+    thumb: "assets/thumbs/home.jpg",
+    model: "assets/models/home.glb"
+  },
 
  
   // Add as many as you need

@@ -4,7 +4,7 @@ const products = [
    {
     id: 1,
     name: "dirt bike",
-    price: 42.7,
+    price: 12,
     thumb: "assets/thumbs/dirt bike.jpg",
     model: "assets/models/dirt bike.glb"
 	
@@ -12,7 +12,7 @@ const products = [
     {
     id: 2,
     name: "moterbike",
-    price: 42.7,
+    price: 78,
     thumb: "assets/thumbs/Bike1.jpg",
     model: "assets/models/Bike1.glb"
 	
@@ -20,25 +20,25 @@ const products = [
     {
     id: 3,
     name: "dirt bike 2",
-    price: 42.7,
+    price: 52,
     thumb: "assets/thumbs/Bike2.jpg",
     model: "assets/models/Bike2.glb"
 	
  },,
     {
     id: 4,
-    name: "dirt bike",
-    price: 42.7,
-    thumb: "assets/thumbs/dirt bike.jpg",
-    model: "assets/models/dirt bike.glb"
+    name: "mBike",
+    price: 32,
+    thumb: "assets/thumbs/mBike.jpg",
+    model: "assets/models/mBike.glb"
 	
  },,   
  {
     id: 5,
-    name: "dirt bike",
-    price: 42.7,
-    thumb: "assets/thumbs/dirt bike.jpg",
-    model: "assets/models/dirt bike.glb"
+    name: "BMX",
+    price: 25,
+    thumb: "assets/thumbs/BMX.jpg",
+    model: "assets/models/BMX.glb"
 	
  },,
 
